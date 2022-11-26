@@ -170,6 +170,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _gizmos: -1
+  _sphereType: 1
   _resolution: 3
   _material: {fileID: 2100000, guid: 58be580724662a04a98f8c8e1d4f665e, type: 2}
 --- !u!23 &540703967
